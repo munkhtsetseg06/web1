@@ -1,0 +1,238 @@
+body{
+	margin: 0;
+	padding-left: 0;
+	font-family: 'Lato', sans-serif;
+}
+body{
+	 
+    height: 100%;
+    width: 100vw;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+
+}
+.ehlel{
+	background-color: #13124F;
+	color: white;
+	padding: 30px;
+	background-position: bottom right;
+	flex-direction: column;
+	width: 100%;
+
+}
+.niit {
+	display: flex;
+    height: fit-content;
+    width: 100%;
+}
+.medee{
+	 width: 70%;
+    padding: 20px ;
+   position: relative;
+    
+}
+.ehlel h1 {
+	font-size: 3em;
+	font-family: 'Lato', sans-serif;
+}
+.logo {
+	background-color: #1B1B6C;
+
+}
+.ehlel button {
+	background-color: #F61067;
+	color: white;
+	font-size: 1.4em;
+	border-color: #F61067;
+}
+.medee{
+	padding-left: 30px;
+}
+.medee iframe {
+    width: 100%;
+    margin-top: 20px;
+    height: 350px;
+
+}
+.medee .imp {
+    margin-top: 20px;
+    background-color: #9090a5;
+    width: 100%;
+    height: auto;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.tugsgul {
+	background-color: #13124F;
+	color: white;
+	padding-left: 30px;
+	padding-top: 0.02px;
+	padding-bottom: 0.02px;
+}
+.imp {
+	background-color: #9090A5;
+	color: white;
+	padding-left: 10px;
+	padding-top: 0.02px;
+	padding-bottom: 0.02px;
+}
+.table{
+	 background-color: #13124f;
+    color: white;
+    max-width: 100%;
+    margin: 0;
+    border: none;
+}
+.setgegdel {
+	width: 30%;
+	padding: 20px 40px;
+	}
+.mess{
+	color: white;
+	background-color: #F61067;
+	text-align: center;
+	padding: 0.016px;
+}
+.Welcome p{
+	color: white;
+	background-color: #9090A5;
+	padding: 10px;
+	font-size: 1.2em;
+}
+.send{
+	color: white;
+	background-color: #13124F;
+    padding: 20px;
+}
+.send input{
+	 background-color: #1b1b6c;
+    border: none;
+    border-top: double;
+    border-bottom: double;
+    color: white;
+    padding: 20px;
+    padding-right: 0px;
+    width: 90%;
+    margin-bottom: 10px;
+}
+.send button{
+	color: white;
+	background-color: #F61067;
+	text-align: center;
+	border-color: #F61067;
+	width: 95%;
+}
+.link {
+	background-color: #352BA5;
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
+.link a{
+	color: white;
+}
+.sanal {
+	 margin-top: 20px;
+    padding: 10px;
+    width: auto;
+    border: 1px solid black;
+}
+.percent {
+    display: flex;
+    margin-bottom: 20px;
+}
+.red {
+    height: 5px;
+    width: 70%;
+    background-color: #f61067;
+}
+.green {
+    height: 5px;
+    width: 30%;
+    background-color: #2ad392;
+}
+.bred {
+    color: white;
+    background-color: #f61067;
+    border-color: #f61067;
+    padding: 10px ;
+    max-width: auto;
+    width: 40%;
+    
+}
+.bgreen {
+    color: #2ad392;
+    background-color: white;
+    border-color: #2ad392;
+    padding: 10px ;
+    max-width: auto;
+    width: 40%;
+   
+}
+.buttons {
+    display: flex;
+    width: auto;
+    justify-content: space-between;
+
+}
+@media only screen and (max-width: 600px) {
+    .niit {
+        flex-direction: column;
+    }
+    .medee {
+        width: auto;
+    }
+    .setgegdel {
+        width: auto;
+    }
+    body {
+        width: auto;
+        height: 100%;
+        margin: 0;
+    }
+    #grid {
+        width: 100vw;
+    }
+    .bgreen {
+        padding: 10px 15%;
+    }
+    .bred {
+        padding: 10px 15%;
+    }
+    #grid button {
+        margin-bottom: 20px;
+    }
+}
+@media   (min-width: 600px) {
+    .niit {
+        height: auto;
+    }
+    .medee {
+        display: flex;
+        flex-direction: column;
+
+    }
+    .medee iframe {
+        min-height: 40%;
+    }
+    body {
+        height: auto;
+        margin: 0 auto;
+    }
+}
+@media (min-width: 900px) and (max-width: 1024px){
+    body {
+        height: auto;
+    }
+}
+@media (min-width: 1360px){
+   body {
+   	height: auto;
+   }
+    .medee {
+        height: auto;
+    }
+}
+
