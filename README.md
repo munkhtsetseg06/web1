@@ -27,7 +27,8 @@
 		<p>Монголын крипто, форекс арилжааны коммюнитигийн төлөөлөл болох Мөнхжин, Эрхэмээ, Гантиг болон комедиан Идэр-Од нар хамтран IHC (Inflation Hedging Coin) хэмээх койныг гаргах гэнэ. Тэд 8 сарын 25-ны өдөр дотоодын 4 биржээр зэрэг IEO хийх ажээ.
 
 IEO гэдэг нь… Initial Exchange Offering хэмээх үгний товчлол ба крипто биржээр дамжуулан койн гаргагчид анхны хөрөнгө оруулалтаа татахыг хэлнэ. </p>
-		 <iframe width="100%" height="315" src="https://www.youtube.com/embed/qoMNO-_VRLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		
+		<iframe width="100%" height="315" src="https://www.youtube.com/embed/qoMNO-_VRLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
              <div class="imp">
 		<p><i class="fa fa-exclamation-circle" aria-hidden="true"></i> Whoa! This is a imporant alert!</p>
 	</div>     
